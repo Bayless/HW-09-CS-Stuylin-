@@ -1,5 +1,7 @@
 
 body{background-color:lightblue;border-style:groove;}
-h1{font-size:20pt;font-color:purple;}
-h3{font-size:30pt;font-color:lightgreen;}
-ul {list-style-type:circle;}
+h1{font-size:20pt;color:purple;}
+h3{font-size:30pt;color:darkgreen;}
+ul {list-style-type:circle;font-family: "Times New Roman", Times, serif;}
+h2{font-size:80pt;letter-spacing: -10px}
+p{text-decoration:line-through;}
