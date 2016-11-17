@@ -1,2 +1,46 @@
-h1
-h2
+
+body {
+    background-color:#A53D3D;border-style:groove;
+}
+
+.extreme {
+}
+
+#head1 {
+    color:#7D82B8;
+    font-style:oblique;
+}
+
+h1 {
+}
+
+.navzone{
+}
+
+h3 {
+}
+
+ul {
+}
+
+#tehlulz{
+}
+
+.content{
+}
+
+h2{
+}
+
+.prose {
+
+    background-color:#B7E3CC;
+    width: 300px;
+    border:25px #BAD9B5;
+    padding: 25px;
+    margin:25px;
+
+}
+
+p {
+}
