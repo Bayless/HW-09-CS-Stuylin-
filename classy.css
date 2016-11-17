@@ -1,26 +1,41 @@
 
 body {
-    background-color:#A53D3D;border-style:groove;
+    background-image: url("roddaIceCream.jpg");
+   /* background-repeat: repeat-y;*/
+    border-style:groove;
 }
 
 .extreme {
-}
-
-#head1 {
-    color:#7D82B8;
+    font-size: 12pt;
     font-style:oblique;
 }
 
+#head1 {
+     font-size:100pt;
+    color:darkred;
+}
+
 h1 {
+    font-size:30pt;
+    
 }
 
 .navzone{
+    border: 3px double orange;
 }
 
 h3 {
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    background-color: orange;
+    margin-right:85%;
+    
 }
 
 ul {
+    background-color:pink;
+    margin-right:90%;
+    border:solid black;
+    list-style-image: url('littleRodda.jpg')
 }
 
 #tehlulz{
@@ -30,15 +45,18 @@ ul {
 }
 
 h2{
+    background-color: orange;
+    margin-right:85%;
 }
 
 .prose {
-
+    font-size:16pt;
     background-color:#B7E3CC;
     width: 300px;
-    border:25px #BAD9B5;
-    padding: 25px;
-    margin:25px;
+    border:100px;
+    border-color::#A53D3D;
+    padding: 50px;
+    margin:100px blue;
 
 }
 
